@@ -5,36 +5,26 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>Hello</string>
+	<string>Ask a Ninja</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.plexapp.plugins.askaninja</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
-	<key>CFBundlePackageType</key>
-	<string>AAPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
 	<key>CFBundleSignature</key>
-	<string>hook</string>
+	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
-	<key>PlexAudioCodec</key>
-	<array>
-		<string>AAC</string>
-	</array>
 	<key>PlexClientPlatforms</key>
 	<string>MacOSX,LGTV</string>
 	<key>PlexFrameworkVersion</key>
-	<string>1</string>
-	<key>PlexMediaContainer</key>
-	<array>
-		<string>MP4</string>
-	</array>
+	<string>2</string>
 	<key>PlexPluginDebug</key>
 	<string>1</string>
 	<key>PlexPluginMode</key>
 	<string>AlwaysOn</string>
-	<key>PlexVideoCodec</key>
-	<array>
-		<string>MPEG4</string>
-	</array>
+	<key>PlexPluginConsoleLogging</key>
+	<string>1</string>
 </dict>
 </plist>
